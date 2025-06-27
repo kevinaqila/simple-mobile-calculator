@@ -23,6 +23,9 @@ function compute() {
     } else if (operation === "÷") {
         computationResult = prev / curr;
     }
+    if (computationResult.toString().length > 11) {
+        computationResult = computationResult.toPrecision(11);
+    }
     calculateDisplay.innerText = previous + operation + current;
 
     previous = "";
