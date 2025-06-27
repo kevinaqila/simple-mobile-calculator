@@ -61,7 +61,7 @@ This project was an intensive problem-solving journey. The main challenge was de
 To run this project on your local machine:
 1.  Clone this repository:
     ```bash
-    git clone [https://github.com/kevinaqila/simple-mobile-calculator.git](https://github.com/kevinaqila/simple-mobile-calculator.git)
+    git clone https://github.com/kevinaqila/simple-mobile-calculator.git
     ```
 2.  Navigate to the project directory:
     ```bash
