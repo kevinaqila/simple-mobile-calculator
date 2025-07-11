@@ -9,7 +9,7 @@ A simple yet functional calculator application built from scratch using vanilla 
 ### ✨ Live Demo
 
 You can try out the live calculator here:
-**simple-project-mobile-calculator.netlify.app**
+**[simple-project-mobile-calculator.netlify.app](https://simple-project-mobile-calculator.netlify.app/)**
 
 ---
 
